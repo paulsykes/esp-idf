@@ -37,3 +37,7 @@
 [submodule "components/json/cJSON"]
 	path = components/json/cJSON
 	url = https://github.com/DaveGamble/cJSON.git
+
+[submodule "components/libesphttpd"]
+	path = components/libesphttpd
+	url = https://github.com/paulsykes/libesphttpd.git
